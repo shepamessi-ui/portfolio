@@ -37,9 +37,9 @@ Data Analyst specializing in **Business Information Systems (BIS)** and **Databa
 ---
 
 ## 📬 Let's Connect
-* **LinkedIn:** [Insert Link Here]
-* **WhatsApp:** [Insert Link Here]
-* **Portfolio Website:** [Insert GitHub Pages Link Here]
+* **LinkedIn:** [Ibrahim Elshafey](https://www.linkedin.com/in/ibrahim-elshafey)
+* **WhatsApp:** [+201140016540](https://wa.me/201140016540)
+* **Portfolio Website:** [Live Portfolio](https://shepamessi-ui.github.io/portfolio/)
 
 ---
 *Clean. Professional. Insightful.*
